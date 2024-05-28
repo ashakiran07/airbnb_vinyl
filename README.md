@@ -63,7 +63,7 @@ https://www.figma.com/file/Xqjlc97yaEgnHpzowev4OU/Untitled?type=design&t=DycTOiQ
 - As a logged-in user, I can open a new rental form, fill in my information and metadata of the offer, and post my offer to rent out the vinyl.
 
 # Getting Started
-- To set up the Rent Vinyl application locally, follow these steps:
+To set up the Rent Vinyl application locally, follow these steps:
 - Clone this repository to your local machine.
 - Navigate to the project directory.
 - Install dependencies by running bundle install.
@@ -73,4 +73,4 @@ https://www.figma.com/file/Xqjlc97yaEgnHpzowev4OU/Untitled?type=design&t=DycTOiQ
 
 
 # Contributing
-If you'd like to contribute to Rent Vinyl, please fork the repository, make your changes, and submit a pull request. We welcome contributions of all kinds, including bug fixes, feature enhancements, documentation improvements, and more.
+If you'd like to contribute to Rent Vinyl, please fork the repository, make your changes and submit a pull request. We welcome contributions of all kinds, including bug fixes, feature enhancements, documentation improvements, and more.
