@@ -51,7 +51,7 @@ This project was created with:
 - See all the vinyl bookings of the user
 ![enter image description here](https://github.com/ashakiran07/airbnb_vinyl/blob/master/public/img/uservinyldashboard.png?raw=true)
 
-# FIGMA PROTOTYPE
+# FIGMA Prototype
 Here's the link for the figma prototype:
 https://www.figma.com/file/Xqjlc97yaEgnHpzowev4OU/Untitled?type=design&t=DycTOiQvtrJIPfhi-6
 
