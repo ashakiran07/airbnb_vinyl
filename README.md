@@ -19,7 +19,7 @@ This project was created with:
  - Javascript(Stimulus)
  - Mapbox API (for displaying maps)
  - Cloudinary (for image storage and manipulation)
- - Heroku: Tested and successfully uploaded
+ - Heroku (Tested and successfully uploaded)
 
 ![main banner without log in](https://github.com/ashakiran07/airbnb_vinyl/blob/master/public/img/landingpagewithoutlogin.png?raw=true)
 
