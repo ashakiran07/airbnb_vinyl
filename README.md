@@ -1,5 +1,5 @@
 ## Rent Vinyl: Intro
-Rent Vinyl is a platform (similar to the concept of Air BnB) that allows music lovers to share their vinyl records with other enthusiasts. Users can browse available vinyls, view details of each offer, calculate rental prices, make bookings, manage their listings, and more. Whether you're looking to lend out your favorite albums or discover new music from fellow collectors, VinylShare makes it easy to connect with like-minded individuals and expand your vinyl collection.
+Rent Vinyl is a platform (similar to the concept of Air BnB) that allows music lovers to share their vinyl records with other enthusiasts. Users can browse available vinyls, view details of each offer, calculate rental prices, make bookings including upload their collections for sale, manage their listings, and more Whether you're looking to lend out your favorite albums or discover new music from fellow collectors, VinylShare makes it easy to connect with like-minded individuals and expand your vinyl collection.
 
 -Created by the [Le Wagon coding bootcamp batch 1456](https://www.lewagon.com) team as a initial project.
 -This is a cloned repo of the collaborative project by a team member. To see more details with commits, please find the original git repo here:
