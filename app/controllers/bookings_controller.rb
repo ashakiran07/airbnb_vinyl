@@ -44,7 +44,6 @@ class BookingsController < ApplicationController
     @bookings = current_user.bookings.includes(:vinyl)
   end
 
-
   private
 
   def set_vinyl
