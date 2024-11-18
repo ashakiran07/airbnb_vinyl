@@ -53,6 +53,7 @@ This project was created with:
 Here's the link for the figma prototype:
 https://www.figma.com/file/Xqjlc97yaEgnHpzowev4OU/Untitled?type=design&t=DycTOiQvtrJIPfhi-6
 
+
 # User Stories
 - As a visitor, I can visit the home page, log in, and see a navigation bar.
 - As a logged-in user, I can view a list of available vinyls, filter through them, and click on an offer to see its details.
