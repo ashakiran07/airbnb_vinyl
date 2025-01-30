@@ -6,7 +6,6 @@ Rent Vinyl is a Rails project (similar to the concept of Air BnB) that allows mu
 This is a cloned repo of the collaborative project by a team member. To see more details with commits, please find the original git repo here:
 https://github.com/lae178456/airbnb_vinyl
 
-
 ## Technologies Used
 This project was created with:
  - [Ruby](https://www.ruby-lang.org/pt/)
