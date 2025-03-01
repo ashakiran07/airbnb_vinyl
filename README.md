@@ -62,7 +62,6 @@ https://www.figma.com/file/Xqjlc97yaEgnHpzowev4OU/Untitled?type=design&t=DycTOiQ
 - As a logged-in user, I can navigate to a dashboard to manage my listings, delete my vinyls, edit my existing vinyls, and upload pictures of my offer.
 - As a logged-in user, I can open a new rental form, fill in my information and metadata of the offer, and post my offer to rent out the vinyl.
 
-
 # Getting Started
 To set up the Rent Vinyl application locally, follow these steps:
 - Clone this repository to your local machine.
