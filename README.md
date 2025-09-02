@@ -1,6 +1,5 @@
 ## Rent Vinyl: Intro
 Rent Vinyl is a web application that allows users to rent and manage vinyl records. Users can browse available vinyls, view details of each offer, calculate rental prices, make bookings, manage their listings, and more.
-
 -Created by the [Le Wagon coding bootcamp batch 1456](https://www.lewagon.com) team as a initial project.
 -This is a cloned repo of the collaborative project by a team member. To see more details with commits, please find the original git repo here:
 https://github.com/lae178456/airbnb_vinyl
